@@ -1,4 +1,4 @@
-import SignIn from "../../../assets/Login/Login.png";
+import SignIn from "../../../assets/Login/AuthImg.png";
 import Logo from "../../../assets/logo.svg";
 import FormInput from "./FormInput";
 import Google from "../../../assets/Login/google-logo.png";

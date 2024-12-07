@@ -1,4 +1,4 @@
-import SignUp from "../../../assets/Login/Login.png";
+import SignUp from "../../../assets/Login/AuthImg.png";
 import Logo from "../../../assets/logo.svg";
 import FormInput from "./FormInput";
 import { Link } from "react-router-dom";
