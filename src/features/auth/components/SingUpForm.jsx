@@ -1,4 +1,4 @@
-import SignIn from "../../../assets/Login/Login.png";
+import SignUp from "../../../assets/Login/Login.png";
 import Logo from "../../../assets/logo.svg";
 import FormInput from "./FormInput";
 import { Link } from "react-router-dom";
@@ -14,8 +14,8 @@ const SignUpForm = () => {
     <div className="w-full h-full flex md:gap-10 xl:gap-0  ">
       <div className="hidden md:block md:w-[43%] lg:w-[45%] md:h-[700px] xl:min-h-screen   min-[1280px]:h-[760px] ">
         <img
-          src={SignIn}
-          alt="SignIn"
+          src={SignUp}
+          alt="SignUp"
           className="w-full h-full object-cover object-center "
         />
       </div>
